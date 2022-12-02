@@ -1,4 +1,4 @@
-const input = require("./input");
+const input = require("./day1Input");
 
 // Split string input into array of numbers, delimited by new line
 
